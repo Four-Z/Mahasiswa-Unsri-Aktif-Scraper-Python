@@ -9,3 +9,9 @@ Berisi tentang code untuk melakukan Scraping Data Mahasiswa Unsri di website old
 | JENIS KELAMIN | :white_check_mark: |
 | AGAMA | :white_check_mark: |
 | STATUS | :white_check_mark:  |
+# Persiapan
+Install beautifulsoup4
+'''
+pip install beautifulsoup4
+'''
+

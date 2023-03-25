@@ -1,5 +1,5 @@
 # Mahasiswa-Unsri-Aktif-Scraper-Python
-Berisi tentang code untuk melakukan Scraping Data Mahasiswa Unsri di website old unsri.
+Berisi tentang code untuk melakukan Scraping Data Mahasiswa Unsri di website [old unsri](https://old.unsri.ac.id/).
 ## Data yang Discrap
 | Data  | Keterangan |
 | ------------- | ------------- |
